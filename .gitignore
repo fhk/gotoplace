@@ -9,8 +9,8 @@
 /coverage
 
 #.gitignore
-src/*
-public/*
+#src/*
+#public/*
 build/static/css/*.map
 build/static/js/*.map
 
