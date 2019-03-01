@@ -1,0 +1,35 @@
+{
+  "name": "gotoplace",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@mapbox/mapbox-sdk": "^0.4.1",
+    "axios": "^0.18.0",
+    "bootstrap": "^4.3.1",
+    "express": "^4.16.4",
+    "express-favicon": "^2.0.1",
+    "mapbox-gl": "^0.52.0-beta.2",
+    "path": "^0.12.7",
+    "react": "^16.8.3",
+    "react-dom": "^16.8.3",
+    "react-modal": "^3.8.1",
+    "react-scripts": "2.1.1",
+    "reactstrap": "^6.5.0"
+  },
+  "scripts": {
+    "start": "node server.js",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ],
+  "devDependencies": {}
+}
